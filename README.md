@@ -9,5 +9,5 @@ This is a Complex Expense Budget Tracker.The tools used to made this include Sta
 Setup:
 - run ```npm i && npm start```
 
-#Live Demo:-
+# Live Demo:-
 (https://daily-expense-manager.netlify.app/) 
