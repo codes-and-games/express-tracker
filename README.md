@@ -10,4 +10,4 @@ Setup:
 - run ```npm i && npm start```
 
 # Live Demo:-
-(https://daily-expense-manager.netlify.app/) 
+https://daily-expense-manager.netlify.app/ 
