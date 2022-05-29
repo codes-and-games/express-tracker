@@ -8,4 +8,4 @@ This is a Complex Expense Budget Tracker.The tools used to made this include Sta
 
 Setup:
 - run ```npm i && npm start```
-# [express-tracker] (https://daily-expense-manager.netlify.app/) 
+[Express Tracker] (https://daily-expense-manager.netlify.app/) 
